@@ -14,8 +14,8 @@ Bloghub is a blog sharing platform built with the MERN stack, where users can cr
 •	Version Control: Git & GitHub
 📂 Project Setup
 1. Clone the repository:
-git clone https://github.com/Sanuj14/Bloghub.git
-cd Bloghub
+git git clone https://github.com/yashvardhanshah/BlogHub.git
+cd BlogHub
 2. Install dependencies:
 cd server
 npm install
